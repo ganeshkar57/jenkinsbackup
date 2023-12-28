@@ -1,0 +1,6 @@
+Started by user [8mha:////4MiXn5MOYfSokVclw6uxpVrt8OIiyIlskwMqxbEHxBxNAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL99MS81OLEvDIAPhW+CsMAAAA=[0mGanesan V
+Running as SYSTEM
+Building remotely on [8mha:////4KzHTdREKnAoyhOzLcW4fxPGUbEeQFQbr8OPLsEX57KXAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/fDUpOLUorLUIgCA8+/dyAAAAA==[0mWebserver (web-ubu) in workspace /home/ubuntu/workspace/WebServer_Stop
+[WebServer_Stop] $ /bin/sh -xe /tmp/jenkins11805433473858526953.sh
++ sudo systemctl stop apache2
+Finished: SUCCESS

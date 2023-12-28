@@ -1,0 +1,28 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-12-28 17:49:54.527 UTC</timestamp>
+  <md5sum>dba9b78223d3dcd76c208acec1b0fead</md5sum>
+  <fileName>Credential id=gitgkm name=gkmtechhive@gmail.com/******</fileName>
+  <usages>
+    <entry>
+      <string>jenkins</string>
+      <ranges>31-32</ranges>
+    </entry>
+    <entry>
+      <string>Gitpipeline</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1311.vcf0a_900b_37c2">
+      <timestamp>1703785895793</timestamp>
+      <itemFullName>jenkins</itemFullName>
+      <timestamp0>1703785794526</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1311.vcf0a_900b_37c2">
+      <timestamp>1703786303845</timestamp>
+      <itemFullName>Gitpipeline</itemFullName>
+      <timestamp0>1703786013040</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
